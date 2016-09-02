@@ -31,7 +31,8 @@
 */
 
 body {
-	background: #151515;										/* Page background */
+	background-image: url("http://i.imgur.com/7KT2UaN.gif");
+	background-color: #2A2826										/* Page background */
 	color: #999;														/* Font color */
 	padding: 150px;													/* Padding between link blocks and edge */
 	font-family: "Museo", "Helvetica Neue", sans-serif;	/* Font */
